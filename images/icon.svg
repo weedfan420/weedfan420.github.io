@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="icons"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="leaf-mod.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs160" />
+  <sodipodi:namedview
+     id="namedview158"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="16.046875"
+     inkscape:cx="30.192795"
+     inkscape:cy="30.286271"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="icons" />
+  <title
+     id="title132">marijuana-leaf</title>
+  <path
+     d="M 32,47.891599 C 34.241321,40.985454 36.227642,33.775701 40.525596,27.80635 43.362882,23.744012 47.445697,20.81663 50.646662,17.08407 47.275527,24.015156 47.071781,32.522984 42.044819,38.692309 39.264566,42.322274 35.632138,45.166573 32,47.891599 Z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path134"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="M 32,47.891599 C 38.953393,41.570917 47.431517,37.048292 56.321734,34.109284 51.405533,37.399416 48.891005,43.690249 43.213422,46.015957 39.711412,47.607822 35.796233,47.894544 32,47.891599 Z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path136"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="m 32,47.891599 c 6.130161,-0.227839 12.589491,0.67545 17.835939,4.053622 C 45.69615,51.376492 41.516689,51.216513 37.353632,50.995154 35.285755,50.684258 33.125164,49.741112 32,47.891599 Z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path138"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="M 32,47.891599 C 29.758679,40.985454 27.772358,33.775701 23.474404,27.80635 20.637118,23.744012 16.554303,20.81663 13.353338,17.08407 c 3.371135,6.931086 3.574881,15.438914 8.601843,21.608239 2.780253,3.629965 6.412681,6.474264 10.044819,9.19929 z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path140"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="M 32,8.1661002 C 31.431767,16.57827 26.032085,24.458516 27.344077,33.078234 28.191147,38.209366 30.331881,42.995832 32,47.891599 34.156426,41.45827 37.658596,35.022769 36.723897,28.021875 35.918192,21.227791 32.589287,15.016861 32,8.1661002 Z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path142"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="M 32,47.891599 C 25.046607,41.570917 16.568483,37.048292 7.678266,34.109284 c 4.916201,3.290132 7.43073,9.580965 13.108312,11.906673 3.50201,1.591865 7.417189,1.878587 11.213422,1.875642 z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path144"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <path
+     d="M 32,47.891599 C 25.869839,47.66376 19.410509,48.567049 14.164061,51.945221 18.30385,51.376492 22.483311,51.216513 26.646368,50.995154 28.714245,50.684258 30.874836,49.741112 32,47.891599 Z"
+     fill="#35c99f"
+     stroke="#2cab87"
+     stroke-linejoin="round"
+     stroke-width="2"
+     id="path146"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <line
+     x1="32"
+     y1="47.891598"
+     x2="32"
+     y2="56.80957"
+     fill="none"
+     stroke="#2cab87"
+     stroke-linejoin="bevel"
+     stroke-width="2"
+     id="line148"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linejoin:bevel;stroke-dasharray:none" />
+  <metadata
+     id="metadata682">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>marijuana-leaf</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

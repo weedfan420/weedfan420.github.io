@@ -139,6 +139,14 @@
 			</div>
 
 		<!-- Scripts -->
+			<script>
+				const iframe = document.getElementsByName("hiddenPostFrame")[0];
+				
+				iframe.onload = function () {
+					alert("Your request is received. Our team will be in touch shortly. - Derek");
+					document.querySelector("form").reset();
+				};
+			</script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
@@ -147,3 +155,4 @@
 			<script src="assets/js/main.js"></script>
 	</body>
 </html>
+

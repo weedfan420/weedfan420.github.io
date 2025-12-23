@@ -100,7 +100,8 @@
 						<div id="contact" class="inner">
 							<h2 class="major">Interested? Hit us up.</h2>
 							<p>We're looking for creative individuals who want to push the boundaries. If you want to reduce the stigma around cannabis use, want top of the line web hosting software, or just want to show off your cannabis pride with a <b>@WeedFan.net</b> email, please contact us!</p>
-							<form method="post" id="contactForm" action="https://hooks.zapier.com/hooks/catch/25802152/uacws0r/">
+							<iframe name="hiddenPostFrame" style="display:none;"></iframe>
+							<form method="post" action="https://hooks.zapier.com/hooks/catch/25802152/uacws0r/" target="hiddenPostFrame">
 								<div class="row gtr-uniform">
 									<div class="col-6 col-12-xsmall">
 										<label for="name">Name</label>
@@ -138,37 +139,6 @@
 			</div>
 
 		<!-- Scripts -->
-		<script>
-document.getElementById("contactForm").addEventListener("submit", function (e) {
-	e.preventDefault(); // stay on the page
-
-	const data = {
-		name: document.getElementById("name").value,
-		email: document.getElementById("email").value,
-		category: document.getElementById("category").value,
-		message: document.getElementById("message").value
-	};
-
-	fetch(this.action, {
-		method: "POST",
-		headers: {
-			"Content-Type": "application/json"
-		},
-		body: JSON.stringify(data)
-	})
-	.then(response => {
-		if (!response.ok) throw new Error("Request failed");
-		return response.text();
-	})
-	.then(() => {
-		alert("Your request has been received. Our team will be in touch shortly. - Derek");
-	})
-	.catch(err => {
-		console.error(err);
-		alert("Our servers are under heavy load. Please excuse any issues. - Derek");
-	});
-});
-</script>
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/jquery.scrollex.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
@@ -177,5 +147,3 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
 			<script src="assets/js/main.js"></script>
 	</body>
 </html>
-
-
